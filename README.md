@@ -121,7 +121,7 @@ MedicineReminder/
 ---
 ## 👨‍💻 Author
 
-- 🎓 Developed by: *Salapu Udhaya Sri Kalyani *
+- 🎓 Developed by: *Salapu Udhaya Sri Kalyani*
 - 🏫 Embedded Systems Mini Project
 - 🎯 Tech: Embedded C, LPC2148, RTC, LCD, Keypad, Buzzer, File Handling
 
